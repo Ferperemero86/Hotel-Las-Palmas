@@ -1,1 +1,1 @@
-# Hotel-Las-Palmas-frontend
+# Hotel-Las-Palmas (Only frontend using Flexbox)
